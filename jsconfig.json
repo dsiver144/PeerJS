@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6"
+    },
+    "include": ["js/**/*", "js/lunalite-pixi-mz.d.ts", "lunalite-pixi-mv.d.ts"]
+  }
